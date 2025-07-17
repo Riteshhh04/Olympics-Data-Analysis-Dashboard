@@ -16,6 +16,20 @@ This Power BI dashboard presents an interactive and comprehensive analysis of th
 
 ---
 
+## 🧹 Data Cleaning & Preparation
+
+- Raw data was cleaned using **Jupyter Lab**.
+- Cleaning tasks included:
+  - Handling missing/null values
+  - Standardizing medal and gender labels
+  - Mapping countries to continents
+  - Creating calculated columns like `decade`, `repeat_medalist`, `sport_group`, etc.
+- Notebook used: [`Cleaning.ipynb`](./Cleaning.ipynb)
+
+The cleaned dataset was then imported into Power BI for visualization.
+
+---
+
 ## 📁 Dataset
 
 - **File Name:** `Cleaned_Summer_Olympic_Medals.csv`
