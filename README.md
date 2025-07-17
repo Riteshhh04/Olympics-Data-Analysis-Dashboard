@@ -60,11 +60,11 @@ The cleaned dataset was then imported into Power BI for visualization.
 
 ## 📷 Sample Visuals
 
-> ![Dashboard Screenshot 1](your-screenshot-link-here)
+> ![Dashboard Screenshot 1](Dashboard_1)
 
-> ![Dashboard Screenshot 2](your-screenshot-link-here)
+> ![Dashboard Screenshot 2](Dashboard_2)
 
-> ![Dashboard Screenshot 3](your-screenshot-link-here)
+> ![Dashboard Screenshot 3](Dashboard_3)
 
 ---
 
